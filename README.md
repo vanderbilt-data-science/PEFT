@@ -13,3 +13,7 @@ Large Language Models (LLMs) are very capable. However, they are often not speci
 ## Getting Started
 
 To access Gemma for this tutorial, you need a [HuggingFace](www.huggingface.co) account and a HuggingFace API Token with read-only permissions (In HF: Profile -> Settings -> Access Tokens). Additionally, you need to visit [Gemma's HuggingFace Space](https://huggingface.co/google/gemma-7b) and click the button to accept their terms of use. After accepting the terms, access should be immediately granted.
+
+## The Dataset
+
+In this tutorial we will be using the [English Quotes Dataset](https://huggingface.co/datasets/Abirate/english_quotes) from HuggingFace. This is a dataset containing quotes and their authors. We are going to train Gemma to, given a quote beginning, complete the quote and list its author.  
