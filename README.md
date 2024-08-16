@@ -2,6 +2,9 @@
 
 This is a short notebook tutorial designed to introduce fine tuning on [Google's Gemma model](https://huggingface.co/google/gemma-7b). 
 
+## Overview
+
+The goal of this tutorial is not to make you an expert at fine-tuning, but rather show you how easy it is to fine-tune a sophisticated model on new data. Use the code in this tutorial as a guide for your specific application.
 
 ## Why Fine Tune? 
 
