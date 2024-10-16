@@ -12,7 +12,7 @@ Large Language Models (LLMs) are very capable. However, they are often not speci
 
 ## Getting Started
 
-To access Gemma for this tutorial, you need a [HuggingFace](www.huggingface.co) account and a HuggingFace API Token with read-only permissions (In HF: Profile -> Settings -> Access Tokens). Additionally, you need to visit [Gemma's HuggingFace Space](https://huggingface.co/google/gemma-7b) and click the button to accept their terms of use. After accepting the terms, access should be immediately granted.
+To access Gemma for this tutorial, you need a [HuggingFace](www.huggingface.co) account and a HuggingFace API Token with write permissions (In HF: Profile -> Settings -> Access Tokens). Additionally, you need to visit [Gemma's HuggingFace Space](https://huggingface.co/google/gemma-7b) and click the button to accept their terms of use. After accepting the terms, access should be immediately granted.
 
 ## Libraries
 
